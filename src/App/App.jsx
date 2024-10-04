@@ -1,7 +1,7 @@
 import React from 'react';
-import './App.css';
+//import '../css';
 
-function App() {
+export default function App() {
   return (
     <div className="App">
       <header className="App-header">
@@ -18,6 +18,7 @@ function App() {
       </body>
     </div>
   );
+  
 }
 
 function act(){
